@@ -1,5 +1,5 @@
 package com.richoco.demo;
-
+// just a comment
 public class Alien {
 	private int aid;
 	private String aname;
